@@ -1,24 +1,29 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🛍️ Shopkart – Simple E-Commerce Platform Prototype
 
-## Getting Started
+A fully functional **e-commerce application** built with [Next.js](https://nextjs.org/) for both **frontend and backend**, using **Stripe** as the payment gateway, and deployed seamlessly via [Vercel](https://vercel.com).
 
-First, run the development server:
+Demo URL: https://next-js-15-stripe-e-commerce.vercel.app
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Tech Stack
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+| Technology         | Purpose                            |
+|--------------------|-------------------------------------|
+| **Next.js (App Router)** | Full-stack framework (frontend + API routes) |
+| **Stripe**         | Secure payment processing           |
+| **Tailwind CSS**   | Modern utility-first styling        |
+| **Vercel**         | Hosting & deployment                |
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📦 Features
+
+- ✅ Product listing and detail pages
+- ✅ Responsive UI with Tailwind CSS
+- ✅ Stripe Checkout integration
+- ✅ Cart and quantity management
+- ✅ Route-based navigation with `app/` directory
+- ✅ Deployed on Vercel with preview environments
 
 ## Learn More
 
